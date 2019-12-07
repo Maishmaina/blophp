@@ -1,0 +1,29 @@
+body{
+  background:#0d0d0d;
+}
+.navbar-nav li{
+  font-weight:bold ;
+  font-family:Bitter,Georgia,Times,"Times New Roman",serif ;
+}
+.col-sm-10{
+  background:#ffffff;
+}
+.active{
+  background:;
+}
+
+ #sidemanu {
+  color :#9fb1c2;
+  border-radius:20px;
+
+}
+
+#sidemenu:hover{
+  color:#ffffff;
+   background-color:#1ab394;
+   font-weight:bold;
+   border-radius: 20px;
+}
+.input-group-text{background:#d3325f ;border-color:#d3325f ;color: #242424;}
+.card{background:rgba(0,0,0,0.5); transition:all 2s ease;}
+.card:hover{background:rgba(0,0,0,0.8); color:white;}
